@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+.btn btn-primary{
+  color: green;
+}
+
+.card {
+  background-color: lightblue;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1px;
+  width: calc(33.33% - 20px);
+  border-style: solid;
+  margin-left: 650px;
+  margin-top: 4px;
+}
+
+.button {
+  background-color: yellowgreen;
+  margin-top: 20px;
+  margin-left: 540px;
+}
+
+.card h5 {
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 16px;
+  margin: 0;
+}
